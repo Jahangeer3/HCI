@@ -1,0 +1,5 @@
+Main.js in Screens is main screen of app
+only thing to do is put onPress in Text tag of src/components/LoginForm.js 
+
+you can check tab navigator by copy pasting the code of Screen/Main.js to App.js
+
